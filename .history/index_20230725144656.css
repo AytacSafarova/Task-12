@@ -1,0 +1,36 @@
+.container{
+    width: 100%;
+min-height: 100vh;   
+ background-color: violet;
+    position: relative;
+}
+.child{
+    width: 200px;
+    height: 200px;
+}
+
+.child1{
+    background-color: orange;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    
+}
+.child2{
+    background-color: blue;
+    position: absolute;
+    bottom: 100px;
+    right: 0;
+    z-index: 1;
+}
+.box{
+    width: 600px;
+    height: 600px;
+    background-color: red;
+}
+
+
+ul{
+    width: 100%;
+
+}

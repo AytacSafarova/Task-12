@@ -1,0 +1,10 @@
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: violet;
+}
+.child{
+    width: 200px;
+    height: 400px;
+    background-color: violet;
+}

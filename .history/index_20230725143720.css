@@ -1,0 +1,25 @@
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: violet;
+    position: relative;
+}
+.child{
+    width: 200px;
+    height: 200px;
+
+}
+
+.child1{
+    background-color: orange;
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+}
+.child2{
+    background-color: blue;
+    position: absolute;
+    top: 300px;
+    right: 0;
+}

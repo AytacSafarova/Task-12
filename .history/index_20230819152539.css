@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+div{
+    background-color: red;
+    width: 100% ;
+}
+.red-div{
+    min-height: 100vh;
+
+}
+p{
+    color: white;
+}
+
+.green-div{
+    background-color: green;
+    height: 500px;
+    mon
+}

@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+min-height: 100vh;   
+ background-color: violet;
+    /* position: relative; */
+}
+
+
+ul{
+    width: 100%;
+    padding: 20px;
+    background-color: ;
+}

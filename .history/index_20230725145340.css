@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+min-height: 100vh;   
+ background-color: violet;
+    /* position: relative; */
+}
+
+
+ul{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    pos
+}
+li{
+    color: aliceblue;
+font-size: 30px;
+list-style-type: none;
+}

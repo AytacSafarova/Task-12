@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+width: 600px;
+height: 500px;
+background-color: gray;
+}
+.card{
+    width: 150px;
+    height: 150px;
+}
+
+.card:f
+.additional{
+    position: absolute;
+    top: 30px;
+    background-color: green;
+    
+}
+h1{
+    position: sticky;
+    top: 0;
+    background-color: violet;
+}

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+width: 600px;
+height: 500px;
+background-color: gray;
+margin-left: 500px;
+position: relative;
+}
+.card{
+    width: 150px;
+    height: 150px;
+}
+
+.card:first-child{
+    background-color: orange;
+    position: absolute;
+    bottom: 0;
+}
+.card:nth-child(2){
+    background-color: red;
+}.card:nth-child(3){
+    background-color: blue;
+}
+.additional{
+    position: absolute;
+    top: 30px;
+    background-color: green;
+    
+}
+h1{
+    position: sticky;
+    top: 0;
+    background-color: violet;
+}
